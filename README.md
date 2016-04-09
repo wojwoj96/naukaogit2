@@ -1,2 +1,2 @@
 # naukaogit2
-sdsd
+pierwsze kroki przy ogarnianu gita
